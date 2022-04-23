@@ -1,0 +1,7 @@
+E:\TaiLieu\lap-trinh-mang-dlu\Lab3\Lab3_Bai3\Client\Client\bin\Debug\Client.exe.config
+E:\TaiLieu\lap-trinh-mang-dlu\Lab3\Lab3_Bai3\Client\Client\bin\Debug\Client.exe
+E:\TaiLieu\lap-trinh-mang-dlu\Lab3\Lab3_Bai3\Client\Client\bin\Debug\Client.pdb
+E:\TaiLieu\lap-trinh-mang-dlu\Lab3\Lab3_Bai3\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\TaiLieu\lap-trinh-mang-dlu\Lab3\Lab3_Bai3\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\TaiLieu\lap-trinh-mang-dlu\Lab3\Lab3_Bai3\Client\Client\obj\Debug\Client.exe
+E:\TaiLieu\lap-trinh-mang-dlu\Lab3\Lab3_Bai3\Client\Client\obj\Debug\Client.pdb
