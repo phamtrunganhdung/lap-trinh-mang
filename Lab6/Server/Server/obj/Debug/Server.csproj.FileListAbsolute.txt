@@ -1,0 +1,10 @@
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\bin\Debug\Server.exe.config
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\bin\Debug\Server.exe
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\bin\Debug\Server.pdb
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\obj\Debug\Server.ServerForm.resources
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\obj\Debug\Server.exe
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Server\Server\obj\Debug\Server.pdb

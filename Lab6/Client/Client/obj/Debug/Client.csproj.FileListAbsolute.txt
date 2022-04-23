@@ -1,0 +1,9 @@
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\bin\Debug\Client.exe.config
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\bin\Debug\Client.exe
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\bin\Debug\Client.pdb
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\obj\Debug\Client.ClientForm.resources
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\obj\Debug\Client.exe
+E:\TaiLieu\lap-trinh-mang-dlu\Lab6\Client\Client\obj\Debug\Client.pdb
